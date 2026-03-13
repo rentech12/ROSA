@@ -2,9 +2,7 @@
 
 const scriptLink = "https://github.com/rentech12/ROSA";
 const channelLink = "https://whatsapp.com/channel/0029VbCAIZYA2pLGKFWCbX09";
-const devChannel2 = "https://whatsapp.com/channel/0029VapNnkE60eBaAvllKJ2g";
-const groupLink = "https://chat.whatsapp.com/DpADtS77s3LKToWpjDQnz1";
-const telegramGroupLink = "https://t.me/bugbotsapp";
+const devChannel2 = "https://whatsapp.com/channel/0029VbBy5o5It5s4zZZRgo1y"
 const videoMenuUrl = "https://image2url.com/r2/default/videos/1769892528235-7b251060-9471-45fb-8d30-a9006bc8f68a.mp4";
 
 async function repoCommand(sock, chatId, message) {

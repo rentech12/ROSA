@@ -80,16 +80,16 @@ async function handleLeaveEvent(sock, chatId, participants) {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: newsletterJid,
-                        newsletterName: '༺『Q』『U』『E』『E』『N』 ❀『A』『i』༻',
+                        newsletterName: 'ROSA',
                         serverMessageId: Math.floor(Math.random() * 1000)
                     },
                     externalAdReply: {
-                        title: '༺『ǫᴜᴇᴇɴ ᴀɪ』 ❀༻',
+                        title: 'ROSA',
                         body: "Tap to open the official channel",
                         thumbnailUrl: userPic,
                         mediaType: 1,
                         renderLargerThumbnail: true,
-                        sourceUrl: "https://whatsapp.com/channel/0029VbBYMyZIyPtOEnuT0S04"
+                        sourceUrl: "https://whatsapp.com/channel/0029Vb9ZpG8BPzjRj7qCGC29"
                     }
                 }
             });
